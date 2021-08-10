@@ -1,0 +1,30 @@
+{
+  "name": {
+    "zh-cn": " LED灯",
+    "en": " LED Light"
+  },
+  "description": {
+    "zh-cn": "通过数字/模拟引脚控制的LED发光模块",
+    "en": "LED Light Module Controlled by Digital/Analog Pin"
+  },
+  "author": "MarsCollege",
+  "email": "wangyinshen@zju.edu.cn",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "led_light",
+  "version": "0.0.1",
+  "platform": [
+    "win",
+    "mac"
+  ],
+  "asset": {
+    "arduinoC": {
+      "dir": "arduinoC/",
+      "version": "0.0.1",
+      "board": [
+        "microbit"
+      ],
+      "main": "main.ts"
+    }
+  }
+}

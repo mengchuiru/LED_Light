@@ -1,0 +1,6 @@
+{
+    "LED_Light.ON_OFF.HIGH|menu": "开启",
+    "LED_Light.ON_OFF.LOW|menu": "关闭",
+    "LED_Light.setState|block": "[ON_OFF]数字引脚[PIN]LED灯",
+    "LED_Light.setBrightness|block": "设置模拟引脚[PIN]LED灯 亮度值[BRIGHTNESS]"
+}

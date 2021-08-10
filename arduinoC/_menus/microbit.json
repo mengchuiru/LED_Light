@@ -1,0 +1,22 @@
+{	
+	"PIN_DigitalWrite": {
+		"menu": [
+			["P0", "0"],
+			["P1", "1"],
+			["P2", "2"],
+			["P8", "8"],
+			["P9", "9"],
+			["P12", "12"]
+		],
+		"default_setState_PIN": "8"
+	},
+
+	"PIN_AnalogWrite": {
+		"menu": [
+			["P0", "0"],
+			["P1", "1"],
+			["P2", "2"]
+		],
+		"default_setBrightness_PIN": "0"
+	}
+}
